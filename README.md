@@ -1,4 +1,4 @@
-# Power BI Sales Insights Dashboard README
+# Power BI Sales Insights Dashboard
 
 Welcome to the Power BI Sales Insights Dashboard project!
 This repository contains a comprehensive sales insights dashboard and key performance indicators (KPIs) generated using Power BI. This README will guide you through the project, its purpose, and how to use and customize the dashboard for your needs.
