@@ -1,9 +1,9 @@
-Power BI Sales Insights Dashboard README
+# Power BI Sales Insights Dashboard README
 
 Welcome to the Power BI Sales Insights Dashboard project!
 This repository contains a comprehensive sales insights dashboard and key performance indicators (KPIs) generated using Power BI. This README will guide you through the project, its purpose, and how to use and customize the dashboard for your needs.
 
-Table of Contents
+## Table of Contents
 Project Overview
 Data Source
 Dashboard Features
@@ -12,15 +12,15 @@ Getting Started
 Accessing my Workbook
 
 
-Project Overview
+## Project Overview
 The Power BI Sales Insights Dashboard is designed to provide a comprehensive overview of sales data, enabling users to analyze sales performance across various dimensions such as time, geography, and product categories. This dashboard is a valuable tool for making data-driven decisions and identifying trends and opportunities within your sales data.
 
-View the Sales Report as a PDF
+## View the Sales Report as a PDF
 I have uploaded the pdf of Dashboard and Datamodel to this Repository.
 
-# OR
+## OR
 
-To run the projecct from scratch:
+## To run the projecct from scratch:
 
 Data Source
 The sales data for this dashboard originates from a MySQL database. It includes historical sales data containing information about products, customers, sales dates, and geographical regions. The data has undergone exploratory querying and analysis to ensure its accuracy and relevance to the dashboard's objectives. I have provided the created database and uploaded the file as db_dump.
@@ -47,7 +47,7 @@ Ensure you have Power BI Desktop installed on your machine.
 Clone or download this repository to your local machine.
 Follow the steps outlined in the "How to Run the Project from Scratch" section above.
 
-Accessing my Workbook
+## Accessing my Workbook
 I'm excited to share the interactive Power BI Sales Insights Dashboard with you! This dashboard provides valuable insights into our sales data and helps in making data-driven decisions. To access the dashboard, simply follow these steps:
 Click on the following link: [https://app.powerbi.com/groups/me/reports/c0907c95-a6fc-49ac-83a7-6cf3c44c7551?ctid=4c25b8a6-17f7-46f9-83f0-54734ab81fb1&pbi_source=linkShare](url)
 
