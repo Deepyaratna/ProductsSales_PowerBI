@@ -27,21 +27,21 @@ I have uploaded the pdf of Dashboard and Datamodel to this Repository.
 The sales data for this dashboard originates from a MySQL database. It includes historical sales data containing information about products, customers, sales dates, and geographical regions. The data has undergone exploratory querying and analysis to ensure its accuracy and relevance to the dashboard's objectives. I have provided the created database and uploaded the file as db_dump.
 
 ## Dashboard Features
-Sales Overview: Get an at-a-glance summary of overall sales performance, including total revenue, number of orders, and average order value.
-Yearly Insights: Analyze sales trends over the years with a visual representation of yearly revenue, allowing you to identify growth or decline patterns.
-Date-wise Analysis: Dive into sales data on a daily basis, helping you understand which days of the week or months are most profitable.
-Geographical Breakdown: Explore sales performance across different geographical areas using interactive maps and filters.
-Product Analysis: Gain insights into product-wise revenue and sales quantities to determine top-selling products and their contributions.
-KPI Monitoring: Monitor key performance indicators like sales growth rate, customer retention, and more, providing a holistic view of business performance.
+1. Sales Overview: Get an at-a-glance summary of overall sales performance, including total revenue, number of orders, and average order value.
+2. Yearly Insights: Analyze sales trends over the years with a visual representation of yearly revenue, allowing you to identify growth or decline patterns.
+3. Date-wise Analysis: Dive into sales data on a daily basis, helping you understand which days of the week or months are most profitable.
+4. Geographical Breakdown: Explore sales performance across different geographical areas using interactive maps and filters.
+5. Product Analysis: Gain insights into product-wise revenue and sales quantities to determine top-selling products and their contributions.
+6. KPI Monitoring: Monitor key performance indicators like sales growth rate, customer retention, and more, providing a holistic view of business performance.
 
 ## How to Run the Project from Scratch
 
-Clone or download this repository to your local machine.
-Download the dump file I provided in this repository and open it using MySQL and then Load this data to PowerBI.
-Open Power BI Desktop and load the provided Power BI file (Sales_Insights_Dashboard.pbix).
-In Power BI, connect to your MySQL database as the data source, making sure to update the connection details in the dashboard to point to your database.
-Refresh the data in the dashboard to ensure you have the latest insights based on your dataset.
-Interact with the various visuals and filters to explore the data and gain valuable insights.
+1. Clone or download this repository to your local machine.
+2. Download the dump file I provided in this repository and open it using MySQL and then Load this data to PowerBI.
+3. Open Power BI Desktop and load the provided Power BI file (Sales_Insights_Dashboard.pbix).
+4. In Power BI, connect to your MySQL database as the data source, making sure to update the connection details in the dashboard to point to your database.
+5. Refresh the data in the dashboard to ensure you have the latest insights based on your dataset.
+6. Interact with the various visuals and filters to explore the data and gain valuable insights.
 
 ## Getting Started
 To get started with this project:
