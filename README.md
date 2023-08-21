@@ -51,6 +51,7 @@ Follow the steps outlined in the "How to Run the Project from Scratch" section a
 I'm excited to share the interactive Power BI Sales Insights Dashboard with you! This dashboard provides valuable insights into our sales data and helps in making data-driven decisions. To access the dashboard, simply follow these steps:
 Click on the following link: [https://app.powerbi.com/groups/me/reports/c0907c95-a6fc-49ac-83a7-6cf3c44c7551?ctid=4c25b8a6-17f7-46f9-83f0-54734ab81fb1&pbi_source=linkShare](url)
 
+
 Request Access: Since the dashboard contains sensitive business data, access is currently restricted. Don't worry though, requesting access is easy! Click the "Request Access" button provided on the Power BI sharing page.
 Approval Process: Once you've requested access, I'll be notified and will promptly approve your request. This allows you to dive right into the interactive dashboard and explore the various visualizations and insights.
 Feel free to reach out if you have any questions or need assistance while using the dashboard. Your feedback and insights are greatly appreciated and will contribute to the ongoing refinement of this tool.
